@@ -1,4 +1,4 @@
-# Flashlight_ghost
+# Midnight Hunt
 This is a vibe coding game, built with Gemini Fast module. Use flashlight and laser to catch ghost. 
 # Name of game: 🔦 Midnight Hunt: Shadow Combat (v1.0.4)
 
